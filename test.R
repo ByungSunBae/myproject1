@@ -1,2 +1,3 @@
+## Using Python in Rstudio!!
 library(data.table)
-print("Load data.table !!")
+library(reticulate)
